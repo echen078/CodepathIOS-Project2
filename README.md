@@ -36,7 +36,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-No big obstacles when building project 2.
+No major obstacles during the course of building project 2.
 
 ## License
 
